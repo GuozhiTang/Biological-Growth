@@ -1,25 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aab6b10-f72d-43fa-ae4b-e71ca766649c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ac17beb8-2d9b-48ab-9aba-e0ac79bb99f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Genetic Algorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/averg.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/genetic/CoreControl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/genetic/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/genetic/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/genetic/SpeciesGroup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maxfit.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/genetic/CoreControl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/genetic/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/genetic/MainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/genetic/SpeciesGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biological Growth.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/edu/neu/csye6200/bg/BGApp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/edu/neu/csye6200/bg/BGApp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/edu/neu/csye6200/bg/BGApp$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/edu/neu/csye6200/bg/BGApp$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/edu/neu/csye6200/bg/BGApp$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/edu/neu/csye6200/bg/BGApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/edu/neu/csye6200/bg/BGGeneration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/edu/neu/csye6200/bg/BGGenerationSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/edu/neu/csye6200/bg/BGPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/edu/neu/csye6200/bg/BGRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/edu/neu/csye6200/bg/BGStem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/org/netbeans/lib/awtextra/AbsoluteConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biological Growth/org/netbeans/lib/awtextra/AbsoluteLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/edu/neu/csye6200/bg/BGApp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/edu/neu/csye6200/bg/BGApp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/edu/neu/csye6200/bg/BGApp$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/edu/neu/csye6200/bg/BGApp$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/edu/neu/csye6200/bg/BGApp$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/edu/neu/csye6200/bg/BGApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/edu/neu/csye6200/bg/BGGeneration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/edu/neu/csye6200/bg/BGGenerationSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/edu/neu/csye6200/bg/BGPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/edu/neu/csye6200/bg/BGRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/edu/neu/csye6200/bg/BGStem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/org/netbeans/lib/awtextra/AbsoluteConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Genetic-Algorithm/org/netbeans/lib/awtextra/AbsoluteLayout.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1TlJ4zoFDifBfsZMfo64X4x6rGT" />
+  <component name="ProjectId" id="1TlMzrvdoLq2cTEH26sCUN0rUI4" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -53,7 +67,7 @@
   <component name="RunManager">
     <configuration name="BGPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.neu.csye6200.bg.BGPanel" />
-      <module name="Genetic-Algorithm" />
+      <module name="Biological-Growth" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.neu.csye6200.bg.*" />
@@ -75,12 +89,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2aab6b10-f72d-43fa-ae4b-e71ca766649c" name="Default Changelist" comment="" />
-      <created>1574028561954</created>
+      <changelist id="ac17beb8-2d9b-48ab-9aba-e0ac79bb99f9" name="Default Changelist" comment="" />
+      <created>1574030493946</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574028561954</updated>
-      <workItem from="1574028563224" duration="34000" />
+      <updated>1574030493946</updated>
+      <workItem from="1574030495201" duration="79000" />
+      <workItem from="1574030581597" duration="33000" />
     </task>
     <servers />
   </component>
@@ -92,7 +107,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
