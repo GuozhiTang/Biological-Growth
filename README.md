@@ -1,7 +1,7 @@
 # Biological Growth
-![](https://img.shields.io/badge/java-^1.8.0-blue.svg) <br>
+![](https://img.shields.io/badge/java-^1.8.0-red.svg) <br>
 
-Adopted `Java Swing` to build an Java application that implemented an example of Genetic Algorithm - Biological Growth: shows the genetic growth process for different types of trees.
+Adopted **Java Swing** to build an Java application that implemented an example of Genetic Algorithm - Biological Growth: shows the genetic growth process for different types of trees.
 
 Application started with generation 0 from which successive generations were bred. In each generation new organisms were given birth to which were based, genetically, on the organisms which were fit for rules.
 
@@ -43,5 +43,5 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Built With
 
-* [Java](https://www.npmjs.com/package/mongoose) - The basic language and environment of this project.
+* [Java](https://www.java.com/en/) - The basic language and environment of this project.
 * [Java Swing](https://www.javatpoint.com/java-swing) - A part of Java Foundation Classes (JFC) that is used to create window-based applications.
