@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac17beb8-2d9b-48ab-9aba-e0ac79bb99f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Genetic-Algorithm.iml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <updated>1574030493946</updated>
       <workItem from="1574030495201" duration="79000" />
       <workItem from="1574030581597" duration="33000" />
-      <workItem from="1574030767726" duration="2507000" />
+      <workItem from="1574030767726" duration="2621000" />
     </task>
     <servers />
   </component>
