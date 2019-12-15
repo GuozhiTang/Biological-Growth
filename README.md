@@ -40,6 +40,14 @@ These instructions will get you a copy of the project up and running on your loc
             ```
   
             * Or double click the file directly
+            
+* Here are the three result figures:
+
+![rule1](./figure/rule1.png)
+
+![rule2](./figure/rule2.png)
+
+![rule3](./figure/rule3.png)
 
 ## Built With
 
